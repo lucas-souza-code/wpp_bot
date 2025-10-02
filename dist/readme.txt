@@ -2,7 +2,6 @@
 
 Descrição:
 O wpp_bot é um programa que envia mensagens automáticas pelo WhatsApp. 
-Esta é a versão final, pronta para uso, disponível na pasta "dist".
 
 Como usar:
 
